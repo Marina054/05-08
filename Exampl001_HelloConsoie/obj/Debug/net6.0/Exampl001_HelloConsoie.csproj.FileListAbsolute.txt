@@ -1,0 +1,15 @@
+C:\Users\79068\Desktop\Examples\Exampl001_HelloConsoie\bin\Debug\net6.0\Exampl001_HelloConsoie.exe
+C:\Users\79068\Desktop\Examples\Exampl001_HelloConsoie\bin\Debug\net6.0\Exampl001_HelloConsoie.deps.json
+C:\Users\79068\Desktop\Examples\Exampl001_HelloConsoie\bin\Debug\net6.0\Exampl001_HelloConsoie.runtimeconfig.json
+C:\Users\79068\Desktop\Examples\Exampl001_HelloConsoie\bin\Debug\net6.0\Exampl001_HelloConsoie.dll
+C:\Users\79068\Desktop\Examples\Exampl001_HelloConsoie\bin\Debug\net6.0\Exampl001_HelloConsoie.pdb
+C:\Users\79068\Desktop\Examples\Exampl001_HelloConsoie\obj\Debug\net6.0\Exampl001_HelloConsoie.csproj.AssemblyReference.cache
+C:\Users\79068\Desktop\Examples\Exampl001_HelloConsoie\obj\Debug\net6.0\Exampl001_HelloConsoie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79068\Desktop\Examples\Exampl001_HelloConsoie\obj\Debug\net6.0\Exampl001_HelloConsoie.AssemblyInfoInputs.cache
+C:\Users\79068\Desktop\Examples\Exampl001_HelloConsoie\obj\Debug\net6.0\Exampl001_HelloConsoie.AssemblyInfo.cs
+C:\Users\79068\Desktop\Examples\Exampl001_HelloConsoie\obj\Debug\net6.0\Exampl001_HelloConsoie.csproj.CoreCompileInputs.cache
+C:\Users\79068\Desktop\Examples\Exampl001_HelloConsoie\obj\Debug\net6.0\Exampl001_HelloConsoie.dll
+C:\Users\79068\Desktop\Examples\Exampl001_HelloConsoie\obj\Debug\net6.0\refint\Exampl001_HelloConsoie.dll
+C:\Users\79068\Desktop\Examples\Exampl001_HelloConsoie\obj\Debug\net6.0\Exampl001_HelloConsoie.pdb
+C:\Users\79068\Desktop\Examples\Exampl001_HelloConsoie\obj\Debug\net6.0\Exampl001_HelloConsoie.genruntimeconfig.cache
+C:\Users\79068\Desktop\Examples\Exampl001_HelloConsoie\obj\Debug\net6.0\ref\Exampl001_HelloConsoie.dll
